@@ -1,7 +1,7 @@
 {
   "name": "com.actioncode.async-io",
   "displayName": "ActionCode-Async IO",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "unity": "2019.3",
   "description": "Async reading/writing files, even on Mono Threads platforms.",
   "keywords": [
@@ -9,7 +9,6 @@
     "Input",
     "Output"
   ],
-  "dependencies": {},
   "license": "MIT",
   "homepage": "https://github.com/HyagoOliveira/Async-IO#readme",
   "repository": {
